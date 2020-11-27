@@ -21,8 +21,8 @@ The only testing was whether the links in the navigational bar would work. All t
 
 ## Credits
 ### Media
-Image of myself: Taken during Orientation
-Image of Ngee Ann Polytechnic Logo: https://thesmartlocal.com/reviews/wp-content/uploads/2012/10/1-1350293416.jpg
-Image of Code: https://miro.medium.com/max/700/1*Gw5XgziwzQlefn2pcY3Q7g.jpeg
-Image of Guitar: https://images.reverb.com/image/upload/s--8VphZwid--/a_exif,c_limit,e_unsharp_mask:80,f_auto,fl_progressive,g_south,h_1600,q_80,w_1600/v1490296262/jhgfhtjzmghepqu1vaks.jpg
-Image of Certificate: https://binaries.templates.cdn.office.net/support/templates/en-us/lt04027254_quantized.png
+- Image of myself: Taken during Orientation
+- Image of Ngee Ann Polytechnic Logo: https://thesmartlocal.com/reviews/wp-content/uploads/2012/10/1-1350293416.jpg
+- Image of Code: https://miro.medium.com/max/700/1*Gw5XgziwzQlefn2pcY3Q7g.jpeg
+- Image of Guitar: https://images.reverb.com/image/upload/s--8VphZwid--/a_exif,c_limit,e_unsharp_mask:80,f_auto,fl_progressive,g_south,h_1600,q_80,w_1600/v1490296262/jhgfhtjzmghepqu1vaks.jpg
+- Image of Certificate: https://binaries.templates.cdn.office.net/support/templates/en-us/lt04027254_quantized.png
