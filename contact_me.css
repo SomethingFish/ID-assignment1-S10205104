@@ -1,0 +1,47 @@
+.navigation{
+    display:flex;
+    flex-flow:row wrap;
+    align-items:center;
+    list-style: none;
+    margin:0;
+    background:#71A9F3;
+}
+.navigation h1{
+    width: 920px;
+    flex-direction: row;
+    justify-self: flex-start;
+    color:white;
+}
+.navigation a{
+    display:block;
+    justify-self: right;
+    font-weight: bold;
+    padding:1em;
+    color:white;
+    font-size: large;
+}
+.headerunder{
+    padding:7px;
+    background:#E7E7E7;
+}
+.contact_info{
+    display:flex;
+    flex-direction:column;
+    align-content: center;
+    align-items:center;
+    justify-content: center;
+    padding:10px 20px 20px;
+    list-style-type: none;
+    text-align: center;
+}
+.contact_info h1{
+    background: #6D76E1;
+    padding: 10px;
+    width:220px;
+    justify-self: center;
+    text-align: center;
+    color:white;
+}
+.contact_info h2{
+    color:#707070
+}

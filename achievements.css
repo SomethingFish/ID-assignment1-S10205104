@@ -1,0 +1,62 @@
+.navigation{
+    display:flex;
+    flex-flow:row wrap;
+    align-items:center;
+    list-style: none;
+    margin:0;
+    background:#71A9F3;
+}
+.navigation h1{
+    width: 920px;
+    flex-direction: row;
+    justify-self: flex-start;
+    color:white;
+}
+.navigation a{
+    display:block;
+    justify-self: right;
+    font-weight: bold;
+    padding:1em;
+    color:white;
+    font-size: large;
+}
+.headerunder{
+    padding:7px;
+    background:#E7E7E7;
+}
+.certificate{
+    display:flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding:10px 20px 20px;
+    list-style-type: none;
+    text-align: center;
+}
+.certificate h1{
+    background: #6D76E1;
+    padding: 10px;
+    margin-left: 250px;
+    width:220px;
+    text-align: center;
+    color:white;
+
+}
+.cert_text{
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    font-size:normal;
+    font-weight:normal;
+    text-align:center;
+    justify-content:space-around;
+    float:right;
+    color:#707070;
+    max-width:70%;
+}
+.cert_pic{
+    float:left;
+    width:70%;
+    border:15px solid #707070;
+    border-radius: 8px;
+}

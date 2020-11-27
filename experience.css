@@ -1,0 +1,145 @@
+.navigation{
+    display:flex;
+    flex-flow:row wrap;
+    align-items:center;
+    list-style: none;
+    margin:0;
+    background:#71A9F3;
+}
+.navigation h1{
+    width: 920px;
+    flex-direction: row;
+    justify-self: flex-start;
+    color:white;
+}
+.navigation a{
+    display:block;
+    justify-self: right;
+    font-weight: bold;
+    padding:1em;
+    color:white;
+    font-size: large;
+}
+.headerunder{
+    padding:7px;
+    background:#E7E7E7;
+}
+.polytechnic{
+    display:flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding:10px 20px 20px;
+    list-style-type: none;
+    text-align: center;
+}
+.polytechnic h1{
+    background: #6D76E1;
+    padding: 10px;
+    margin-left: 250px;
+    width:220px;
+    text-align: center;
+    color:white;
+
+}
+.poly_text{
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    font-size:normal;
+    font-weight:normal;
+    text-align:center;
+    justify-content:space-around;
+    float:right;
+    color:#707070;
+    max-width:70%;
+}
+.poly_logo{
+    float:left;
+    width:100%;
+    border:15px solid #707070;
+    border-radius: 8px;
+}
+.polyunder{
+    padding:10px;
+    background:#707070;
+}
+.skills{
+    display:flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    padding:50px 20px 20px;
+    list-style-type: none;
+    text-align: center;
+}
+.skills h1{
+    background: #6D76E1;
+    padding: 10px;
+    margin-left: 110px;
+    width:220px;
+    text-align: center;
+    color:white;
+
+}
+.skills_text{
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    font-size:normal;
+    font-weight:normal;
+    text-align:center;
+    justify-content:space-around;
+    float:right;
+    color:#707070;
+    max-width:70%;
+}
+.skills_pic{
+    float:left;
+    width:30%;
+    border:15px solid #707070;
+    border-radius: 8px;
+    padding:20px;
+}
+.skillsunder{
+    padding:10px;
+    background:#707070;
+}
+.interests{
+    display:flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    padding:50px 20px 20px;
+    list-style-type: none;
+    text-align: center;
+}
+.interests h1{
+    background: #6D76E1;
+    padding: 10px;
+    margin-left: 110px;
+    width:220px;
+    text-align: center;
+    color:white;
+
+}
+.interests_text{
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    font-size:normal;
+    font-weight:normal;
+    text-align:center;
+    justify-content:space-around;
+    float:right;
+    color:#707070;
+    margin-top: 150px;
+    max-width:70%;
+}
+.guitar_pic{
+    float:left;
+    width:50%;
+    border:15px solid #707070;
+    border-radius: 8px;
+    padding:20px;
+}
